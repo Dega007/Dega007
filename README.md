@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Esawy 👋
 
-<!--
-**Dega007/Dega007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a lifelong learner from Egypt who enjoys exploring technology and building things through practice.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Web development with Next.js and TypeScript
+- Turning ideas into useful projects, one step at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+- 🌐 [My website](https://itadmin.mystrikingly.com/)
+- 💻 [GitHub repositories](https://github.com/Dega007?tab=repositories)
+
+> Always learning. Always building.
